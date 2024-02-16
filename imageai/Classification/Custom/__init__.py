@@ -350,8 +350,6 @@ class CustomImageClassification:
 
     * useCPU (Optional): If you will like to force the image classification to be performed on CPU, call this function.
 
-    * loadModel: Used to load the trained model weights and json data.
-
     * classifyImage(): Used for classifying an image.
     """
     def __init__(self) -> None:

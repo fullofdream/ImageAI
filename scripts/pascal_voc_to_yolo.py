@@ -8,6 +8,7 @@ from os.path import join
 import shutil
 
 
+
 dirs = ['train', 'validation']
 sub_dirs = ["images", "annotations"]
 classes = []
